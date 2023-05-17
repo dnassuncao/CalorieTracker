@@ -1,4 +1,4 @@
-package com.plcoding.calorytracker.ui.theme
+package br.com.dnassuncao.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme
